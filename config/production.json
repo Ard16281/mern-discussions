@@ -1,0 +1,6 @@
+{
+    "jwtSecret": "k5566#QRZDAXDA%WQXAT&^!hjbygbyg tf",
+    "port": 8200,
+    "mongoUrl":"mongodb://localhost:27017/nagendra_db"
+
+}

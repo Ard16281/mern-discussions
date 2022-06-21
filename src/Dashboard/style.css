@@ -1,0 +1,14 @@
+/* .discussion-main {
+    position: relative;
+} */
+.discussion-input {
+    position:absolute;
+    bottom: 50px;
+    right: 50px;
+    left: 50px;
+
+}
+.discussion-text {
+    height: 680px;
+    overflow-y: scroll;
+}
